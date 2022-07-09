@@ -1,4 +1,4 @@
-# ODC-Papers
+# Open Domain, Personalized Conversational AI Papers
 - This is repository contains papers for of Open Domain, Personalized Conversational AI. 
 - The papers tackle the challenges in building a long-term memory, personalized conversational AI that is consistent (with itself), knowledgeable, correct and engaging.
 
