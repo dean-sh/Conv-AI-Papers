@@ -21,12 +21,12 @@
 - Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering, 2021. [[paper]](https://arxiv.org/pdf/2007.01282.pdf)
 - `RetGen` - A Joint framework for Retrieval and Grounded Text Generation Modeling, 2021. [[paper]](https://arxiv.org/abs/2105.06597)
 - `Beyond Goldfish Memory` - Long-Term Open-Domain Conversation, 2021. [[paper]](https://arxiv.org/abs/2107.07567)
-- `RETRO` - Improving language models by retrieving from trillions of tokens, 2021. [[paper]](https://arxiv.org/abs/2112.04426)
-- `REALM` - Retrieval-Augmented Language Model Pre-Training, 2020. [[paper]](https://arxiv.org/pdf/2002.08909.pdf)
+- `RETRO` - Improving language models by retrieving from trillions of tokens, 2021. [[paper]](https://arxiv.org/abs/2112.04426)[[code]](https://github.com/lucidrains/RETRO-pytorch)
+- `REALM` - Retrieval-Augmented Language Model Pre-Training, 2020. [[paper]](https://arxiv.org/pdf/2002.08909.pdf)[[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/realm)
 - `Multi-Attentive Transformer` - A Response Retrieval Approach for Dialogue Using a Multi-Attentive Transformer, 2020. [[paper]](https://arxiv.org/abs/2012.08148)
 - Hybrid Generative-Retrieval Transformers for Dialogue Domain Adaptation, 2020. [[paper]](https://arxiv.org/abs/2003.01680)
 - Augmenting Transformers with KNN-Based Composite Memory for Dialogue, 2020. [[paper]](https://arxiv.org/abs/2004.12744)
-- `RAG` - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, 2020. [[paper]](https://arxiv.org/abs/2005.11401?context=cs)
+- `RAG` - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, 2020. [[paper]](https://arxiv.org/abs/2005.11401?context=cs)[[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/rag)
 - `TransformerXL` - Attentive Language Models Beyond a Fixed-Length Context, 2019. [[paper]](https://arxiv.org/abs/1901.02860)
 
 # <img src="https://img.shields.io/badge/Topic%20-Internet%20Augmented-informational" alt="type"/>
@@ -41,3 +41,10 @@
 - Long Time No See! Open-Domain Conversation with Long-Term Persona Memory, 2022. [[paper]](https://arxiv.org/pdf/2203.05797v1.pdf)
 - `EmpTransfo` - A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[paper]](https://arxiv.org/pdf/2003.02958.pdf) [[code]](https://github.com/roholazandie/EmpTransfo)
 - `Meena` - Towards a Human-like Open-Domain Chatbot, 2020. [[paper]](http://arxiv.org/abs/2001.09977)
+
+
+# <img src="https://img.shields.io/badge/Topic%20-Open%20Source%20Language%20Models-informational" alt="type"/>
+- `BLOOM`, 2022. [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/bloom)
+- `OPT`, 2022. [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/opt)
+- `GPT-Neo-X`, 2022. [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/gpt_neox)
+- `DialoGPT`, 2019. [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/dialogpt)
